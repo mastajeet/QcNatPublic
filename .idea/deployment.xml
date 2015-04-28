@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" uploadOnCheckin="00f9c205-9f05-43b5-9d5d-8ee40b4a70ce">
+    <serverData>
+      <paths name="QcNatPublic">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/www" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myUploadOnCheckinName" value="QcNatPublic" />
+  </component>
+</project>
+
