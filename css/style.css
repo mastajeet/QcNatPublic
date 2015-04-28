@@ -1,0 +1,191 @@
+/*
+	Globals
+*/
+
+* { padding: 0; margin: 0; outline: 0; }
+body { font: 12px/16px Arial, Sans-Serif; color: #37464c; background: #007ecc url(images/bg-repeat.gif) repeat-x 0 0; text-align: left; }
+body, html { height: 100%; }
+
+a { color: #000000; cursor: pointer; text-decoration: none; }
+a:hover { text-decoration: underline; }
+
+a img { border: 0; }
+a.img img { display: block; border: 1px solid #ccc; }
+
+input, select, textarea { font: 11px Arial, Sans-Serif; color: #000; }
+.field, textarea { background: #fff; border: 1px solid #ccc; }
+
+input.checkbox, input.radio { float: left; display: inline; height: 13px; width: 13px; margin: 2px 5px 0 0; }
+label.checkbox, label.radio { float: left; display: inline; line-height: 13px; }
+
+input.submit { border: 0; cursor: pointer; }
+
+textarea { overflow: auto; }
+fieldset { border: 0; padding-bottom: 15px; }
+
+ul, ol {}
+
+.bulletlist{position: relative; margin-left: 13px}
+
+.ar { display: block; text-align: right; }
+.al { display: block; text-align: left; }
+.ac { display: block; text-align: center; }
+
+.fr { float: right !important; display: inline; }
+.fl { float: left !important; display: inline; }
+
+.cl { display: block; clear: both; height: 0; font-size: 0; line-height: 0; text-indent: -4000px; }
+.notext { font-size: 0; line-height: 0; text-indent: -4000px; }
+.hidden { display: none; }
+.rel { position: relative; }
+
+.shell { width: 961px; margin: 0 auto; }
+
+h2, h3, h4, h5, h6 { line-height: 100%; font-weight: normal; }
+h2 { font-size: 38px; margin-bottom: 20px; color: #ff0027; }
+h3 { font-size: 34px; margin-bottom: 12px; color: #ff0027; }
+h4 { font-size: 24px; margin-bottom: 12px; color: #f23d44;}
+h5 { font-size: 12px; line-height: 16px; font-weight: bold; color: #02abd2; margin-bottom: 15px; }
+h5 a { color: #02abd2; }
+h6 { font-size: 16px; line-height: 16px; font-weight: bold; color: #ff0027; margin-bottom: 15px; }
+h6 a { color: #ff0027; }
+
+p { padding-bottom: 15px; }
+p.author strong { display: block; }
+small { font-size: 10px; }
+
+#page { background: url(images/background.jpg) no-repeat 0 0; min-height: 100%; height: auto !important; height: 100%; margin: 0 auto -90px;  }
+
+/*
+	Header
+*/
+
+#header { margin: 0 0 42px; top: 28px; position: relative; height: 182px; }
+
+h1#logo { height: 182px; width: 245px; }
+h1#logo a { display: block; height: 182px; background: url(images/logo.png); }
+
+h1#logotempete { height: 182px; width: 245px; }
+h1#logotempete a { display: block; height: 182px; background: url(images/logo_tempete.png); }
+
+#navigation { float: right; display: inline; height: 182px; width: 716px; background: url(images/nav-bg.png); }
+#navigation ul { padding: 25px 0 0 25px; }
+#navigation ul li { float: left; display: inline; width: 112px; text-align: center; margin-right: 25px; }
+#navigation ul li a img { display: block; margin-bottom: 15px; }
+#navigation ul li a span { font-size: 17px; font-weight: bold; text-transform: uppercase; color: #005696; }
+
+#navigation ul li a:hover { text-decoration: none; }
+
+/*
+	Content
+*/
+
+#content { margin-bottom: 85px; }
+
+.mainbox-t { height: 18px; width: 961px; background: url(images/mainbox-t.png); }
+.mainbox-b { height: 18px; width: 961px; background: url(images/mainbox-b.png); }
+.mainbox-cnt { background: url(images/mainbox-bg.png); padding: 0 25px; height: 100%; }
+
+.button-more { display: block; height: 24px; width: 103px; background: url(images/button-more.png); position: relative; }
+
+.column { width: 280px; }
+
+.post-img { margin-bottom: 15px; }
+
+.widecolumn { width: 570px;  }
+.sidebar { width: 320px; padding-top: 10px; }
+
+.services li { background: url(images/sidebar-border.gif) repeat-x 0 bottom; padding: 10px; }
+.services li.last { background: none; padding-bottom: 0;  }
+.services li p { padding: 0; text-transform: uppercase; font-size: 10px; line-height: 14px; }
+.services li a.fl { margin-right: 15px; }
+.services li .text { float: left; display: inline; width: 180px; padding-top: 2px; }
+.services li h5 { margin-bottom: 5px; }
+
+
+.bottom-content { margin-top: 50px; }
+
+.shortbox { width: 599px; height: 250px;}
+.shortbox .box-t { height: 20px; width: 599px; background: url(images/shortbox-t.png); }
+.shortbox .box-cnt { height: 100%; background: url(images/shortbox-bg.png); padding: 0 25px; }
+.shortbox .box-b { height: 20px; width: 599px; background: url(images/shortbox-b.png); }
+.shortbox .column { width: 255px; }
+
+.post { padding-bottom: 20px; }
+
+.list-links li { padding-left: 13px; background: url(images/bullet-1.gif) no-repeat 0 10px; font-size: 10px; line-height: 24px; position: relative; overflow: hidden; text-transform: uppercase; }
+.list-links li a { color: #02abd2; text-decoration: underline; }
+
+.subscribe { position: relative; margin-top: 10px;}
+.subscribe h3 { color: #ffffff; margin-bottom: 10px; }
+.subscribe p { color: #ffffff; padding-bottom: 10px; }
+.subscribe form { height: 45px; width: 256px; background: url(images/subscribe-bg.png); position: relative; overflow: hidden; margin-left: -3px; }
+.subscribe form fieldset { padding: 0; }
+.subscribe form .field { border: 0; background: none; float: left; display: inline;  width: 190px; margin: 15px 0 0 10px; font-size: 14px; }
+.subscribe form .submit { float: right; display: inline; height: 39px; width: 47px; margin: 3px 3px 0 0; background: none; }
+
+.facebook  { position: relative; margin-top: -10px; background: url(images/facebook.jpg); width: 292px; }
+.facebook form { height: 45px; width: 256px; background: url(images/shortbox-bg.png); position: relative; overflow: hidden; margin-left: -3px; }
+
+
+
+/*
+	Footer
+*/
+.footer-push { height: 90px; }
+#footer { height: 90px; line-height: 90px; background: #005b94; color: #fff; font-size: 10px; text-transform: uppercase; 	}
+#footer p { padding: 0; }
+
+/*
+Jeet Stuff
+
+*/
+
+.Titre
+{
+	font-family: futura;
+	font-size: 15px;
+	color: Red;
+	font-variant: normal;
+	font-weight: bold;
+}
+
+.SousTitre
+{
+	font-family: arial;
+	font-size: 13px;
+	font-variant: normal;
+	font-weight: bold;
+}
+
+.SousTitre2
+{
+	font-family: arial;
+	font-size: 11px;
+	font:italic
+
+}
+
+.Texte
+{
+	font-family: arial;
+	font-size: 11px;
+	font-variant: normal;
+}
+.warning
+{
+	font-family: arial;
+	font-size: 11px;
+	font-variant: normal;
+	font-weight: bold;
+	color: red;
+}
+.Lien
+{
+	font-family: arial ;
+	font-size: 12px;
+	color: black;
+	font-variant: normal;
+	text-decoration:none;
+}
+

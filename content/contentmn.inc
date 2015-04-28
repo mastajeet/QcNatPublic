@@ -1,0 +1,3 @@
+<p><h4 class=futura>Maître Nageurs</h4></p>
+<p><span class="Texte">Entraînement de natation en longueur. Il faut bien savoir nager pour s’y inscrire (maîtriser un minimum 3 styles de nage et être capable de faire une dizaine de longueur de façon continue et être capable de recommencer après un court repos). Un entraîneur prépare un entraînement pour vous. Exercices d’endurance, de résistance, de musculation sont au menu. L’entraîneur pourra aussi vous aider à corriger vos styles de façon à les rendre de plus en plus efficace. À votre demande, il pourra aussi vous initier aux virages.<br>
+Une belle façon de garder la forme.</span></p>

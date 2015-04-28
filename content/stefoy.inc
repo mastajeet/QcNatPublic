@@ -1,0 +1,5 @@
+<a href="index.php?Section=Piscine&Piscine=stefoy"><h6 class="futura">Cégep de Sainte-Foy</h6></a>
+<span class="Texte">2410 Chemin Sainte Foy<br>
+QC G1V 1T3</span><br>
+
+<iframe width="640" height="480" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://maps.google.ca/maps?f=q&amp;source=s_q&amp;hl=fr&amp;geocode=&amp;q=c%C3%A9gep+de+sainte-foy&amp;aq=&amp;sll=46.830382,-71.227124&amp;sspn=0.021404,0.055747&amp;ie=UTF8&amp;hq=C%C3%A9gep+de+Sainte-Foy&amp;hnear=C%C3%A9gep+de+Sainte-Foy,+2410+Chemin+Sainte+Foy,+Qu%C3%A9bec+G1V+1T3&amp;ll=46.786485,-71.287107&amp;spn=0.02821,0.054932&amp;z=14&amp;iwloc=A&amp;output=embed"></iframe><br /><small><a href="http://maps.google.ca/maps?f=q&amp;source=embed&amp;hl=fr&amp;geocode=&amp;q=c%C3%A9gep+de+sainte-foy&amp;aq=&amp;sll=46.830382,-71.227124&amp;sspn=0.021404,0.055747&amp;ie=UTF8&amp;hq=C%C3%A9gep+de+Sainte-Foy&amp;hnear=C%C3%A9gep+de+Sainte-Foy,+2410+Chemin+Sainte+Foy,+Qu%C3%A9bec+G1V+1T3&amp;ll=46.786485,-71.287107&amp;spn=0.02821,0.054932&amp;z=14&amp;iwloc=A" style="color:#0000FF;text-align:left">Agrandir le plan</a></small>

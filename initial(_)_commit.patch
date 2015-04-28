@@ -1,0 +1,104 @@
+Index: js/jquery-func.js
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- js/jquery-func.js	(date 1429465563000)
++++ js/jquery-func.js	(revision )
+@@ -1,0 +1,0 @@
+Index: class_html.php
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- class_html.php	(date 1429465563000)
++++ class_html.php	(revision )
+@@ -1,0 +1,0 @@
+Index: topmenuadmin.php
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- topmenuadmin.php	(date 1429465563000)
++++ topmenuadmin.php	(revision )
+@@ -1,0 +1,0 @@
+Index: func_date.php
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- func_date.php	(date 1429465563000)
++++ func_date.php	(revision )
+@@ -1,0 +1,0 @@
+Index: topmenu.php
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- topmenu.php	(date 1429465563000)
++++ topmenu.php	(revision )
+@@ -1,0 +1,0 @@
+Index: topmenumoniteur.php
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- topmenumoniteur.php	(date 1429465563000)
++++ topmenumoniteur.php	(revision )
+@@ -1,0 +1,0 @@
+Index: indexbck.php
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- indexbck.php	(date 1429465563000)
++++ indexbck.php	(revision )
+@@ -1,0 +1,0 @@
+Index: css/images/index.php
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- css/images/index.php	(date 1429465563000)
++++ css/images/index.php	(revision )
+@@ -1,0 +1,0 @@
+Index: generate_inspectionreport.php
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- generate_inspectionreport.php	(date 1429465563000)
++++ generate_inspectionreport.php	(revision )
+@@ -1,0 +1,0 @@
+Index: js/jquery-1.4.2.min.js
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- js/jquery-1.4.2.min.js	(date 1429465563000)
++++ js/jquery-1.4.2.min.js	(revision )
+@@ -1,0 +1,0 @@
+Index: index.php
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- index.php	(date 1429465563000)
++++ index.php	(revision )
+@@ -1,0 +1,0 @@
+Index: js/jquery-fns.js
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- js/jquery-fns.js	(date 1429465563000)
++++ js/jquery-fns.js	(revision )
+@@ -1,0 +1,0 @@
+Index: css/style.css
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- css/style.css	(date 1429465563000)
++++ css/style.css	(revision )
+@@ -1,0 +1,0 @@

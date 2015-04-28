@@ -1,0 +1,2 @@
+<p><h4 class=futura>Pré-Post Natal</h4></p>
+<p><span class="Texte">Conditionnement physique en piscine adaptés aux femmes enceintes ou qui viennnent d’accoucher. À moins d’une contre indication médicale, l’aquaforme pré-natale aide la future maman à garder la forme en souplesse tout en renforçant certains muscles qui seront solicités lors de l’accouchement. De plus, se retrouver dans l’eau, soulage momentanément du poids du bébé qui devient de plus en plus lourd avec l’avancement de la grossesse.</span></p>
