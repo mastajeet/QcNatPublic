@@ -17,7 +17,7 @@ if(isset($_COOKIE['isMoniteur']) and $_COOKIE['isMoniteur']){
     $MainOutput->addlink('/download/RapportMiSessionPresco.pdf','Cours Préscolaire');
     $MainOutput->br();
     $MainOutput->addlink('/download/RapportMiSessionJunior.pdf','Cours Junior');
-    $MainOutput->br();
+    $MainOutput->br(2);
     $MainOutput->AddTexte('Évaluations','SousTitre');
     $MainOutput->br();
     $MainOutput->addlink('/download/Evaluation_Salamandre.pdf','Salamandre');
